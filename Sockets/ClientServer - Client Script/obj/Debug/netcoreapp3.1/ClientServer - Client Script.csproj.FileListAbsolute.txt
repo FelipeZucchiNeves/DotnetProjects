@@ -1,0 +1,13 @@
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.exe
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.deps.json
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.runtimeconfig.json
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.dll
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\bin\Debug\netcoreapp3.1\ClientServer - Client Script.pdb
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.dll
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.pdb
+C:\Users\felip\Desktop\C#Project\Sockets\ClientServer - Client Script\obj\Debug\netcoreapp3.1\ClientServer - Client Script.genruntimeconfig.cache
