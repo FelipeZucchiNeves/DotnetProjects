@@ -27,21 +27,66 @@ namespace Nerd.Store.Vendas.Domain
         public void AdicionarItem(PedidoItem pedidoItem)
         {
 
-            if(pedidoItem.Quantidade > MAX_UNIDADES_ITEM) 
-            throw new DomainException($"Número Máximo de {MAX_UNIDADES_ITEM} unidades por produto");
+            ValidarQuantidadeItemPermitida(pedidoItem);
 
-            if (_pedidoItens.Any(p => p.ProdutoId == pedidoItem.ProdutoId))
+            if (PedidoItemExistente(pedidoItem))
             {
                 var itemExistente = _pedidoItens
                                     .FirstOrDefault(p => p.ProdutoId == pedidoItem.ProdutoId);
+
                 itemExistente.AdicionarUnidades(pedidoItem.Quantidade);
                 pedidoItem = itemExistente;
-
                 _pedidoItens.Remove(itemExistente);
             }
 
             _pedidoItens.Add(pedidoItem);
             CalcularValorPedido();
+        }
+
+        public void AtualizarItem(PedidoItem pedidoItem)
+        {
+            ValidarPedidoInexistente(pedidoItem);
+            ValidarQuantidadeItemPermitida(pedidoItem);
+
+            var itemExistente = PedidoItems.FirstOrDefault(p => p.ProdutoId == pedidoItem.ProdutoId);
+
+            _pedidoItens.Remove(itemExistente);
+            _pedidoItens.Add(pedidoItem);
+
+            CalcularValorPedido();
+        }
+
+         public void RemoverItem(PedidoItem pedidoItem)
+        {
+            ValidarPedidoInexistente(pedidoItem);
+            _pedidoItens.Remove(pedidoItem);
+            CalcularValorPedido();
+        }
+
+
+
+
+
+        private void ValidarQuantidadeItemPermitida(PedidoItem item)
+        {
+            var quantidadeItens = item.Quantidade;
+            if(PedidoItemExistente(item))
+            {
+                var itemExistente =  _pedidoItens.FirstOrDefault(p => p.ProdutoId == item.ProdutoId);
+                quantidadeItens += itemExistente.Quantidade;
+            }
+            if(quantidadeItens > MAX_UNIDADES_ITEM) 
+                throw new DomainException($"Número Máximo de {MAX_UNIDADES_ITEM} unidades por produto");
+        }
+
+        private bool PedidoItemExistente(PedidoItem pedidoItem)
+        {
+            return _pedidoItens.Any(p => p.ProdutoId == pedidoItem.ProdutoId);
+        }
+
+        private void ValidarPedidoInexistente (PedidoItem pedidoItem)
+        {
+            if(!PedidoItemExistente(pedidoItem)) throw new DomainException($"O Item não existe no pedido");
         }
 
         private void CalcularValorPedido()
@@ -53,6 +98,8 @@ namespace Nerd.Store.Vendas.Domain
         {
             PedidoStatus = PedidoStatus.Rascunho;
         }
+
+
 
 
         public static class PedidoFactory
