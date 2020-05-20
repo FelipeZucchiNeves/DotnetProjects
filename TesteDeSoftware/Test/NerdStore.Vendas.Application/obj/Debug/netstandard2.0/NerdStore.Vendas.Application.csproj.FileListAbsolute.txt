@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Vendas.Application.deps.json
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Vendas.Application.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Vendas.Application.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Core.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Vendas.Domain.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Core.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\bin\Debug\netstandard2.0\NerdStore.Vendas.Domain.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Application\obj\Debug\netstandard2.0\NerdStore.Vendas.Application.pdb

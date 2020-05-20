@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjO0oa0BDBmq+8h8hVT9tptPS0XQMhEQBMaoK+GH3hufgVYv7ljS3mGCn3Lo9tA9DhC2CuHhXhfib+C4QDMNWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\Desktop\\C#Project\\DotnetProjects\\TesteDeSoftware\\Test\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

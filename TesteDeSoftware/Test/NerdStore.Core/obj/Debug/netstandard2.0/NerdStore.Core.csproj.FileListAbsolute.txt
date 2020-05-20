@@ -1,0 +1,9 @@
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\bin\Debug\netstandard2.0\NerdStore.Core.deps.json
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\bin\Debug\netstandard2.0\NerdStore.Core.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\bin\Debug\netstandard2.0\NerdStore.Core.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Core\obj\Debug\netstandard2.0\NerdStore.Core.csproj.CoreCompileInputs.cache
