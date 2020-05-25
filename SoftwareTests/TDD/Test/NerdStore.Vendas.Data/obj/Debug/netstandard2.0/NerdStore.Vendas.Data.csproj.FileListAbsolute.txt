@@ -1,0 +1,12 @@
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\bin\Debug\netstandard2.0\NerdStore.Vendas.Data.deps.json
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\bin\Debug\netstandard2.0\NerdStore.Vendas.Data.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\bin\Debug\netstandard2.0\NerdStore.Core.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\bin\Debug\netstandard2.0\NerdStore.Core.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.csproj.CopyComplete
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\bin\Debug\netstandard2.0\NerdStore.Vendas.Data.pdb
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.dll
+C:\Users\felip\Desktop\C#Project\DotnetProjects\TesteDeSoftware\Test\NerdStore.Vendas.Data\obj\Debug\netstandard2.0\NerdStore.Vendas.Data.pdb
