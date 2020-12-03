@@ -1,0 +1,9 @@
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\bin\Debug\netcoreapp3.1\Rdi.Core.deps.json
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\bin\Debug\netcoreapp3.1\Rdi.Core.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\bin\Debug\netcoreapp3.1\Rdi.Core.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Core\obj\Debug\netcoreapp3.1\Rdi.Core.pdb

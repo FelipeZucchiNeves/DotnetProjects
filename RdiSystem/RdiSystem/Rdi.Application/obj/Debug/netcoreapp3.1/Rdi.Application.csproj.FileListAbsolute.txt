@@ -1,0 +1,16 @@
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Core.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Application.deps.json
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Application.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Application.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Data.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Core.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Data.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\bin\Debug\netcoreapp3.1\Rdi.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Application\obj\Debug\netcoreapp3.1\Rdi.Application.pdb

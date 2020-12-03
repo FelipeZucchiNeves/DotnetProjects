@@ -1,0 +1,12 @@
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\bin\Debug\netcoreapp3.1\Rdi.Domain.deps.json
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\bin\Debug\netcoreapp3.1\Rdi.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\bin\Debug\netcoreapp3.1\Rdi.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\bin\Debug\netcoreapp3.1\Rdi.Core.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\bin\Debug\netcoreapp3.1\Rdi.Core.pdb
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.csproj.CopyComplete
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Dotnet\RdiSystem\RdiSystem\Rdi.Domain\obj\Debug\netcoreapp3.1\Rdi.Domain.pdb

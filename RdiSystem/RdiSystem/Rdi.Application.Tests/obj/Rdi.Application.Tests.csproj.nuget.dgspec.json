@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application.Tests\\Rdi.Application.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application.Tests\\Rdi.Application.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application.Tests\\Rdi.Application.Tests.csproj",
+        "projectName": "Rdi.Application.Tests",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application.Tests\\Rdi.Application.Tests.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\Rdi.Application.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\Rdi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq.AutoMock": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\Rdi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\Rdi.Application.csproj",
+        "projectName": "Rdi.Application",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\Rdi.Application.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj"
+              },
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\Rdi.Data.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\Rdi.Data.csproj"
+              },
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj",
+        "projectName": "Rdi.Core",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\Rdi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\Rdi.Data.csproj",
+        "projectName": "Rdi.Data",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\Rdi.Data.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj"
+              },
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj",
+        "projectName": "Rdi.Domain",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\Rdi.Domain.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\Dotnet\\RdiSystem\\RdiSystem\\Rdi.Core\\Rdi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
